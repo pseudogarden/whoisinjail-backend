@@ -6,7 +6,7 @@ jobs:
   build:
     docker:
       - image: circleci/node:10.16.0
-    working_directory: ~/archimedes
+    working_directory: ~/whoisinjail-backend
     environment:
       NODE_ENV: test
     steps:
