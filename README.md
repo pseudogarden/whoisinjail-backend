@@ -2,4 +2,4 @@
 [![Coverage Status](https://coveralls.io/repos/github/pseudogarden/whoisinjail-backend/badge.svg?branch=develop)](https://coveralls.io/github/pseudogarden/whoisinjail-backend?branch=develop)
 
 # whoisinjail-backend
-Backend for Who Is In Jail. A Public Directory for Nigerian Prisons
+Backend for Who Is In Jail. A Public Directory for Nigerian Prisons.
